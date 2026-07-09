@@ -20,7 +20,7 @@ else:
 
 model = "llama-3.3-70b-versatile"
 role = "user"
-prompt = "do you know moeen ul islam"
+prompt = "do you know ronaldo"
 
 message = {
     "role": role,
